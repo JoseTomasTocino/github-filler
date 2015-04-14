@@ -16,4 +16,4 @@ else
     modifyAndCommit a
 fi
 
-git push master
+git push
